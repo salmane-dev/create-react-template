@@ -29,7 +29,8 @@ ul.header li a {
 .content h2 {
   padding: 0;
   margin: 0;
-}
+} 
+
 .content li {
   margin-bottom: 10px;
 }
@@ -38,7 +39,10 @@ ul.header li a {
 }
 
 .my-root{
-  max-width: 70rem;
-  text-align: center;
+  max-width: 70rem; 
   margin: 0 auto;
+}
+
+.header{
+  text-align: center;
 }
