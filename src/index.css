@@ -2,9 +2,10 @@ body {
   background-color: #899fae;
   padding: 20px;
   margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
 h1, h2, p, ul, li {
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 ul.header li {
   display: inline;
@@ -43,6 +44,41 @@ ul.header li a {
   margin: 0 auto;
 }
 
-.header{
+.header, .logo{
   text-align: center;
 }
+
+.logo h1{
+  font-size: 2.8rem;
+}
+
+.home{
+  line-height: 2;
+}
+
+.privacy div .center{
+  text-align: center;
+}
+
+/* contact form  */
+
+.mycontact{
+  background-color: #0099FF;
+  max-width:15rem;
+  margin: 0 auto;
+  padding: 15px;
+}
+.mycontact .form-group{
+  padding: 10px 0;
+  width: 100%;
+  color: white;
+}
+.mycontact  input , textarea{
+  width: 100%;
+  padding: 8px 0;
+border-radius: 5px;
+}
+
+
+
+/* contact form */
