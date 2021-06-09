@@ -41,10 +41,7 @@ class Contact extends Component {
         <div class="form-group">
             <button type="submit" id="button" class="btn btn-primary btn-lg btn-block">Send Message</button>
         </div>
-
-        <div class="credit" id="credit">
-        Simple HTML email form provided by: <a href="https://www.freecontactform.com" target="_blank">FreeContactForm.com</a>
-        </div>
+ 
 
     </form>
 

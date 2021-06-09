@@ -73,7 +73,7 @@ ul.header li a {
   width: 100%;
   color: white;
 }
-.mycontact  input , textarea{
+.mycontact  input , textarea, .mycontact button{
   width: 100%;
   padding: 8px 0;
 border-radius: 5px;
